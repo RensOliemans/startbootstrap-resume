@@ -24,15 +24,23 @@ $yellow:  #ffc107 !default;
 $green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
+$lightblue: #35bdbb !default;
+$darkblue:  #063382 !default;
+$greenish:  #72bd6a !default;
+$reddish:   #d15854 !default;
 
-$primary:       $orange !default;
+$primary:       $lightblue !default;
 $secondary:     $gray-600 !default;
+$link:          $darkblue !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
 $light:         $gray-100 !default;
 $dark:          $gray-800 !default;
+
+$text-one:      $greenish !default;
+$text-two:      $reddish !default;
 
 // Page Variables
 
