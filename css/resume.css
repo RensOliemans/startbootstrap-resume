@@ -91,6 +91,26 @@ p b {
   color: #d15854;
 }
 
+.nav-lng-link {
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 800;
+  letter-spacing: 0.05rem;
+  text-transform: uppercase;
+  padding: .5rem 1rem;
+  padding-left: .5rem;
+  padding-right: .5rem;
+}
+
+.nav-lng-link-active {
+  color: white;
+  font-weight: 800;
+  letter-spacing: 0.05rem;
+  text-transform: uppercase;
+  padding: .5rem 1rem;
+  padding-left: .5rem;
+  padding-right: .5rem;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
