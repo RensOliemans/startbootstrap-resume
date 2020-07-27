@@ -1,0 +1,28 @@
+/* latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: italic;
+  font-weight: 400;
+  src: url("../../fonts/muliitalic.woff2") format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: italic;
+  font-weight: 800;
+  src: url("../../fonts/muliitalicbold.woff2") format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../../fonts/muli.woff2") format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 800;
+  src: url("../../fonts/mulibold.woff2") format('woff2');
+}
